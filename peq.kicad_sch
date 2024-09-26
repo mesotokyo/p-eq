@@ -281,7 +281,7 @@
       (reference "R6") (unit 1) (value "1Meg") (footprint "ak_misc:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_with_SMD")
     )
     (path "/bb76919e-6bfc-4ffb-bc2f-e672a0fcf05d/b09e09a4-382e-4c40-8dc5-e153b00636e3"
-      (reference "R7") (unit 1) (value "20k") (footprint "ak_misc:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_with_SMD")
+      (reference "R7") (unit 1) (value "47k") (footprint "ak_misc:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_with_SMD")
     )
     (path "/bb76919e-6bfc-4ffb-bc2f-e672a0fcf05d/37737bb6-856f-4ef7-9f88-116d1ca8a67a"
       (reference "R8") (unit 1) (value "1Meg") (footprint "ak_misc:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_with_SMD")
@@ -311,7 +311,7 @@
       (reference "RV1") (unit 1) (value "BOOST_HIGH:B10k") (footprint "ak_misc:POT-16mm")
     )
     (path "/bb76919e-6bfc-4ffb-bc2f-e672a0fcf05d/ecfb597c-2125-40fb-b942-bee4e6316757"
-      (reference "RV2") (unit 1) (value "BANDWIDTH:B10k") (footprint "ak_misc:POT-16mm")
+      (reference "RV2") (unit 1) (value "BANDWIDTH:B5k") (footprint "ak_misc:POT-16mm")
     )
     (path "/bb76919e-6bfc-4ffb-bc2f-e672a0fcf05d/e674598e-7b17-4147-af24-7d7d88e70120"
       (reference "RV3") (unit 1) (value "ATTEN_HIGH:B1k") (footprint "ak_misc:POT-16mm")
