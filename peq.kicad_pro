@@ -121,7 +121,8 @@
       "track_widths": [
         0.0,
         0.25,
-        0.8
+        0.8,
+        1.2
       ],
       "via_dimensions": [
         {
@@ -406,9 +407,9 @@
           "GND_SWITCH",
           "INPUT",
           "INPUT_JACK",
-          "Net-(C30-Pad1)",
           "Net-(C34-Pad1)",
           "Net-(D2-Pad2)",
+          "Net-(J5-Pad2)",
           "Net-(SW1-Pad3)",
           "OUTPUT"
         ],
@@ -481,11 +482,11 @@
     ],
     [
       "38f7f3f1-89e1-4fd2-a7f5-06bedaf10569",
-      "peq_main"
+      "LC_bank"
     ],
     [
       "bb76919e-6bfc-4ffb-bc2f-e672a0fcf05d",
-      "peq_ctrl"
+      "main"
     ]
   ],
   "text_variables": {}
