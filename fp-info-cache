@@ -1,4 +1,4 @@
-20688566120537777
+20693749873051278
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86758,6 +86758,20 @@ Toggle-SPDT
 3
 3
 ak_misc
+Volume-Pot-12.7mm-direct-solder-horizontal
+
+
+0
+3
+3
+ak_misc
+Volume-Pot-16mm-direct-solder
+
+
+0
+3
+3
+ak_misc
 dpdt-sw-micro
 
 
@@ -86785,6 +86799,13 @@ elec_power
 0
 0
 0
+ak_misc
+header-for-16mm-pot
+
+
+0
+3
+3
 ak_misc
 long_hole_02x15
 

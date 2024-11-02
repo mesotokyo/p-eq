@@ -6,6 +6,10 @@
 
   (title_block
     (title "PEQ")
+    (date "2024-11-02")
+    (rev "v1.1")
+    (company "MST/mesotokyo")
+    (comment 1 "https://meso.tokyo/")
   )
 
   (lib_symbols

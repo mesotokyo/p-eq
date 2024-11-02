@@ -4,6 +4,14 @@
 
   (paper "A4")
 
+  (title_block
+    (title "PEQ")
+    (date "2024-11-02")
+    (rev "v1.1")
+    (company "MST/mesotokyo")
+    (comment 1 "https://meso.tokyo/")
+  )
+
   (lib_symbols
     (symbol "Amplifier_Operational:NJM4580" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 0 5.08 0)
@@ -1802,7 +1810,6 @@
     )
   )
 
-
   (junction (at 107.95 171.45) (diameter 0) (color 0 0 0 0)
     (uuid 075b74b6-a927-4c67-95a9-96dd474959ea)
   )
@@ -2447,7 +2454,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 16c2c59a-066c-4ce3-ad55-b81a692c343a)
   )
-  (text "80" (at 67.31 30.48 0)
+  (text "60" (at 67.31 30.48 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 695893aa-d1c8-4627-aebf-582620475d2b)
   )
